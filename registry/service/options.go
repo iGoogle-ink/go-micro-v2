@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"github.com/micro/go-micro/v2/client"
-	"github.com/micro/go-micro/v2/registry"
+	"github.com/iGoogle-ink/micro-v2/client"
+	"github.com/iGoogle-ink/micro-v2/registry"
 )
 
 type clientKey struct{}

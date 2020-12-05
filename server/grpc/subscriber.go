@@ -7,12 +7,12 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/micro/go-micro/v2/broker"
-	"github.com/micro/go-micro/v2/errors"
-	"github.com/micro/go-micro/v2/logger"
-	"github.com/micro/go-micro/v2/metadata"
-	"github.com/micro/go-micro/v2/registry"
-	"github.com/micro/go-micro/v2/server"
+	"github.com/iGoogle-ink/micro-v2/broker"
+	"github.com/iGoogle-ink/micro-v2/errors"
+	"github.com/iGoogle-ink/micro-v2/logger"
+	"github.com/iGoogle-ink/micro-v2/metadata"
+	"github.com/iGoogle-ink/micro-v2/registry"
+	"github.com/iGoogle-ink/micro-v2/server"
 )
 
 const (

@@ -5,12 +5,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/micro/go-micro/v2/auth"
-	"github.com/micro/go-micro/v2/auth/rules"
-	pb "github.com/micro/go-micro/v2/auth/service/proto"
-	"github.com/micro/go-micro/v2/auth/token"
-	"github.com/micro/go-micro/v2/auth/token/jwt"
-	"github.com/micro/go-micro/v2/client"
+	"github.com/iGoogle-ink/micro-v2/auth"
+	"github.com/iGoogle-ink/micro-v2/auth/rules"
+	pb "github.com/iGoogle-ink/micro-v2/auth/service/proto"
+	"github.com/iGoogle-ink/micro-v2/auth/token"
+	"github.com/iGoogle-ink/micro-v2/auth/token/jwt"
+	"github.com/iGoogle-ink/micro-v2/client"
 )
 
 // svc is the service implementation of the Auth interface

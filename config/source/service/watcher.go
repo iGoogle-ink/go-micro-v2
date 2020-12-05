@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/micro/go-micro/v2/config/source"
-	proto "github.com/micro/go-micro/v2/config/source/service/proto"
+	"github.com/iGoogle-ink/micro-v2/config/source"
+	proto "github.com/iGoogle-ink/micro-v2/config/source/service/proto"
 )
 
 type watcher struct {

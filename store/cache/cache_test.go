@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/micro/go-micro/v2/store"
-	"github.com/micro/go-micro/v2/store/memory"
+	"github.com/iGoogle-ink/micro-v2/store"
+	"github.com/iGoogle-ink/micro-v2/store/memory"
 	"github.com/stretchr/testify/assert"
 )
 
