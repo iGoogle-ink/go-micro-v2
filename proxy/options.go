@@ -2,8 +2,8 @@
 package proxy
 
 import (
-	"github.com/micro/go-micro/v2/client"
-	"github.com/micro/go-micro/v2/router"
+	"github.com/iGoogle-ink/go-micro-v2/client"
+	"github.com/iGoogle-ink/go-micro-v2/router"
 )
 
 type Options struct {

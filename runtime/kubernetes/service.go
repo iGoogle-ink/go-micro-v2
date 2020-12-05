@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/micro/go-micro/v2/logger"
-	"github.com/micro/go-micro/v2/runtime"
-	"github.com/micro/go-micro/v2/util/kubernetes/api"
-	"github.com/micro/go-micro/v2/util/kubernetes/client"
+	"github.com/iGoogle-ink/go-micro-v2/logger"
+	"github.com/iGoogle-ink/go-micro-v2/runtime"
+	"github.com/iGoogle-ink/go-micro-v2/util/kubernetes/api"
+	"github.com/iGoogle-ink/go-micro-v2/util/kubernetes/client"
 )
 
 type service struct {
